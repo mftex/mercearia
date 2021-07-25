@@ -3,6 +3,10 @@ from Models import *
 from DAO import *
 from datetime import datetime
 
+'''
+Classes e métodos responsáveis por receber dados da View.py, validá-los e aplicar as alterações com o auxílio da DAO.
+'''
+
 class ControllerCategoria:
     def cadastrarCategoria(self, novaCategoria):
         existe = False
