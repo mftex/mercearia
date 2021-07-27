@@ -1,7 +1,7 @@
 from Models import *
 
 '''
-Arquivo responsável pelo gerenciamento de I/O nos arquivos de dados utilizados como exemplos para este projeto,
+Arquivo responsável pelo gerenciamento de I/o nos arquivos de dados utilizados como exemplos para este projeto,
 com base na estrutura definida no Models.py
 '''
 

@@ -5,7 +5,7 @@ import os.path
 View responsável por receber e processar os inputs de usuários. 
 Foi realizada de forma bastante simplista, pois o intuito era desenvolver e entender conceitos de arquitetura MVC.
 Caso seja necessário implementar uma estrutura de front-end diferenciada, basta trabalhar algumas questões neste arquivo, 
-onde não se perde todo o restante da estrutura desenvolvida.
+onde não se perde todo o restante da estrutura desenvolvida
 '''
 
 # Cria os arquivos-base do projeto caso não existam.

@@ -1,1 +1,2 @@
 Banana|2|Frutas|marcelo|Marcelo|2|24/07/2021
+Picanha|2|Carnes|marcelo|Marcelo|2|24/07/2021

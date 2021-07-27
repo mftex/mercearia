@@ -2,3 +2,4 @@ Salame|15|Carnes|15
 Picanha|25|Carnes|150
 Banana|2|Frutas|148
 Mamao|5|Frutas|14
+Fraldinha|5|Carnes|14

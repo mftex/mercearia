@@ -1,7 +1,7 @@
 from datetime import datetime
 
 '''
-Classes utilizadas no projeto
+Classes utilizadas no projeto.
 '''
 
 class Categoria:

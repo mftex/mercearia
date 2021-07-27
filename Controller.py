@@ -4,7 +4,7 @@ from DAO import *
 from datetime import datetime
 
 '''
-Classes e métodos responsáveis por receber dados da View.py, validá-los e aplicar as alterações com o auxílio da DAO.
+Classes e métodos responsáveis por receber dados da View, validá-los e aplicar as alterações com o auxílio da DAO.
 '''
 
 class ControllerCategoria:

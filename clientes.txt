@@ -1,2 +1,3 @@
 Marcelo|45999323952|04174137920|as@as.com|Rua Tupa
 Matheus|44999345525|04174367931|as@as.com|Maringá
+Eduardo|41998655889|04233356956|as1@as.com|Curitiba
